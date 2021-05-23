@@ -23,4 +23,4 @@ Mathematically, coefficients m and c can be calculated as:
                        m = sum((X(i) - mean(X)) * (Y(i) - mean(Y))) / sum( (X(i) - mean(X))^2 ) c = mean(Y) - m * mean(X) 
 
 
-[Predict-the-Percentage-based-on-Study-Hours](https://aihubprojects.com/linear-regression-from-scratch/)
+[Linear Regression From Scratch](https://aihubprojects.com/linear-regression-from-scratch/)
